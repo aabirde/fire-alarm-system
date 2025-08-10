@@ -68,3 +68,8 @@ It uses an **8051 microcontroller** to monitor **flame and gas sensors** and tri
 
 ---
 
+##  Conclusion
+This 8051-based Fire Alarm System successfully demonstrates a practical, low-cost approach to fire detection and alerting.  
+By integrating flame and gas sensors with audio-visual outputs, it ensures timely warnings that can save lives and minimize property damage.  
+
+
